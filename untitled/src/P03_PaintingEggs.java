@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PB01_SeriesCalculator {
+public class P03_PaintingEggs {
 
     public static void main(String[] args) {
 
